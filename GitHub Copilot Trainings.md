@@ -363,8 +363,8 @@ This training explores advanced capabilities, customization, enterprise manageme
 
 ### Additional Resources
 - Official documentation: [https://docs.github.com/en/copilot](https://docs.github.com/en/copilot)
-- GitHub Copilot Community Forums
-- GitHub Copilot YouTube Channel
+- [GitHub Copilot Community Forums](https://github.com/orgs/community/discussions/categories/copilot)
+- [GitHub Copilot YouTube Channel](https://www.youtube.com/@GitHub)
 
 ### Support
 For questions or issues, refer to the [Troubleshooting section](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/troubleshoot-copilot/troubleshoot-common-issues) or contact GitHub Support.
